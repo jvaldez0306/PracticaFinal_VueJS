@@ -1,0 +1,43 @@
+{
+    "areas": [
+        {
+            "id": 1,
+            "departamento" : "finanzas",
+            "nombre_encargado": "juan perez",
+            "numero_funcionarios": 8
+        },
+        {
+            "id": 2,
+            "departamento" : "legal",
+            "nombre_encargado": "jose ramos",
+            "numero_funcionarios": 3
+        },
+        {
+            "id": 3,
+            "departamento" : "informatica",
+            "nombre_encargado": "ronald lopez",
+            "numero_funcionarios": 2
+        }
+
+    ],
+    "activos": [ 
+        {
+            "id": 1,
+            "tipo" : "computadora",
+            "marca": "HP",
+            "modelo": "pavillon 360",
+            "estado": "nuevo",
+            "area_relacionada": "informatica"
+        },
+        {
+            
+            "id": 2,
+            "tipo" : "impresora",
+            "marca": "Epson",
+            "modelo": "L5190 series",
+            "estado": "usado",
+            "area_relacionada": "informatica"
+        }
+        ]
+
+}
